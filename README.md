@@ -1,4 +1,4 @@
-# Arc-Standard Dependency Parser
+# Dependency Parser
 Neural Net Dependency Parser
 
 
